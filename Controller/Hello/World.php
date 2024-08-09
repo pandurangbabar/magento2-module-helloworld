@@ -6,9 +6,6 @@ namespace Pmb\Helloworld\Controller\Hello;
 use Magento\Framework\App\Action\HttpGetActionInterface;
 use Magento\Framework\View\Result\PageFactory;
 
-/**
- * Class World
- */
 class World implements HttpGetActionInterface
 {
     /**
@@ -30,6 +27,7 @@ class World implements HttpGetActionInterface
      */
     public function execute()
     {
-        return $this->pageFactory->create();;
+        return $this->pageFactory->create();
+        ;
     }
 }
