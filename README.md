@@ -1,2 +1,2 @@
-# magento2-module-helloworld
+# Magento2 Module Hello World
 Magento 2 module hello world
