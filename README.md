@@ -1,4 +1,4 @@
-# Magento2 Module Hello World
+# Magento 2 Module Hello World
 
 If you want to learn how to create a custom module in Magento 2 then this module is for you.
 
