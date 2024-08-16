@@ -10,6 +10,10 @@ Please feel free to contact me, if you need Magento 2 development help.
 * Skype - live:pandurang.babar
   
 #### Installation of module:
+
+> [!NOTE]
+> I installed and tested this module for Magento 2.4.7-p1.
+
   1. Please take a pull of this repository and add module code in the "app/code/Pmb/Helloworld" folder.
   2. Run below commands <br>
 
