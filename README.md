@@ -8,13 +8,22 @@ I am an expert Magento 2 Developer with 10+ years of Magento development experie
 Please feel free to contact me, if you need Magento 2 development help.
 * Email - pandurangmbabar5@gamil.com
 * Skype - live:pandurang.babar
-
+  
 #### Installation of module:
   1. Please take a pull of this repository and add module code in the "app/code/Pmb/Helloworld" folder.
   2. Run below commands <br>
-    php bin/magento cache:flush <br>
-    php bin/magento setup:upgrade <br>
-    php bin/magento setup:di:compile <br>
-    php bin/magento setup:static-content:deploy -f <br>
 
- 
+```
+php bin/magento cache:flush 
+php bin/magento setup:upgrade 
+php bin/magento setup:di:compile 
+php bin/magento setup:static-content:deploy -f
+```
+    
+#### Testing of module:
+Load the below URL in the browser you will see a "Hello World" message.<br>
+http://localhost/helloword/hello/world
+
+ ![ScreenShot Tool -20240816122348](https://github.com/user-attachments/assets/0696e2da-4420-403b-ab84-4cca9f1d9565)
+
+#### Thank You
