@@ -22,8 +22,10 @@ php bin/magento setup:static-content:deploy -f
     
 #### Testing of module:
 Load the below URL in the browser you will see a "Hello World" message.<br>
-http://localhost/helloword/hello/world
 
+```
+http://localhost/helloword/hello/world
+```
  ![ScreenShot Tool -20240816122348](https://github.com/user-attachments/assets/0696e2da-4420-403b-ab84-4cca9f1d9565)
 
 #### Thank You
