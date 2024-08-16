@@ -10,7 +10,7 @@ Please feel free to contact me, if you need Magento 2 development help.
 * Skype - live:pandurang.babar
 
 #### Installation of module:
-  1. Please take a pull of this repository and add module code in the "app/code" folder.
+  1. Please take a pull of this repository and add module code in the "app/code/Pmb/Helloworld" folder.
   2. Run below commands <br>
     php bin/magento cache:flush <br>
     php bin/magento setup:upgrade <br>
